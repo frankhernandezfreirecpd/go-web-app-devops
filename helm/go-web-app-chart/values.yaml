@@ -8,7 +8,7 @@ image:
   repository: frank941211/my-repo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "gowebapp"
+  tag: "10164877945"
 
 #imagePullSecrets: []
 #nameOverride: ""
